@@ -1,3 +1,3 @@
 # testing
-echo "Integrating with Jenkins"
+echo Integrating with Jenkins
 Testing in jenkins
